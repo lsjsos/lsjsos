@@ -1,4 +1,4 @@
-## Hi, I'm Jerry 👋
+## Hi, I'm Jerry
 
 <!--
 **lsjsos/lsjsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
