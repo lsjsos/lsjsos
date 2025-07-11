@@ -1,16 +1,35 @@
-## Hi, I'm Jerry
+<!-- GitHub Profile README.md -->
 
-<!--
-**lsjsos/lsjsos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <a href="https://unity.com/">
+    <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity" />
+  </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://img.shields.io/badge/C%23-000000?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  </a>
+  <a href="https://github.com/Cysharp/UniTask">
+    <img src="https://img.shields.io/badge/UniTask-000000?style=flat-square" alt="UniTask" />
+  </a>
+  <a href="https://socket.io/">
+    <img src="https://img.shields.io/badge/Socket.io-000000?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.io" />
+  </a>
+  <a href="https://webrtc.org/">
+    <img src="https://img.shields.io/badge/WebRTC-000000?style=flat-square&logo=webrtc&logoColor=white" alt="WebRTC" />
+  </a>
+  <a href="https://react.dev/">
+    <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white" alt="React" />
+  </a>
+  <a href="https://nestjs.com/">
+    <img src="https://img.shields.io/badge/NestJS-000000?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
+  </a>
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  </a>
+  <a href="https://www.mysql.com/">
+    <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  </a>
+  <a href="https://kafka.apache.org/">
+    <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=apachekafka&logoColor=white" alt="Kafka" />
+  </a>
+</p>
