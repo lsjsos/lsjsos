@@ -39,3 +39,6 @@
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=lsjsos" alt="Solved.ac Profile" height="150" />
   </a>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lsjsos&langs_count=6&layout=compact&theme=great-gatsby" height="150" />
+</p>
